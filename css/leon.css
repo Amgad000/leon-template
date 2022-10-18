@@ -283,6 +283,7 @@ header .container .links ul li a{
 }
 .portfolio .container .grid .card{
     padding: 10px;
+    text-align: center;
 }
 .portfolio .container .grid .card img{
     max-width: 100%;
@@ -290,6 +291,7 @@ header .container .links ul li a{
 .portfolio .container .grid .card .text{
     padding: 5px 30px;
     max-width: 400px;
+    margin:auto
 }
 .portfolio .container .grid .card .text h3{
     font-weight: 800;
